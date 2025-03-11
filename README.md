@@ -1,2 +1,2 @@
 # mineral-klasifikasi
-Prediksi mineral batuan
+Prediksi mineral batuan dari 7 kelas jenis
